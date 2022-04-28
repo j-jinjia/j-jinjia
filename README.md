@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Junior Full Stack Software Developer from Spain</h3>
 
 
+
+
 # 💫About Me :
 
 🔭 I’m currently working on a music player full-stack project
@@ -13,9 +15,11 @@
 
 📫 How to reach me j.jinjia99@gmail.com
 
+
 ## 🌐Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiazheng-jin-jia/)
+
 
 # 💻Tech Stack
 
@@ -36,10 +40,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-
 # 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=j-jinjia&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️Random Dev Quote
 
