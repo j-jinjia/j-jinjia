@@ -13,7 +13,7 @@
 
 🔭 I’m currently working on a music player [full-stack project](https://github.com/j-jinjia/full-stack-project)
 
-🌱 I’m currently learning React, Java, and TypeScript
+🌱 I’m currently giving a try at TypeScript
 
 👨‍💻 All of my projects are available at https://j-jinjia.github.io/react-personal-portfolio/
 
