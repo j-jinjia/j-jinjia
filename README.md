@@ -11,6 +11,11 @@
 
 # 💫About Me :
 
+I have recently completed a 12-week full stack software development course with [_nology.io](https://nology.io/). After completing my BSc in astrophysics I've realised 2 things: I don't see myself working as a researcher and I wasn't ready to break into the job market. Through my university computing modules I started getting interested in coding so I started looking for opportunities in the tech industry.
+
+Through nology I was able to upskill and gain enough confidence to make my first step into the tech industry and now I can confidently call myself a Junior developer.
+
+
 🔭 I’m currently working on a music player [full-stack project](https://github.com/j-jinjia/full-stack-project)
 
 🌱 I’m currently giving a try at TypeScript
