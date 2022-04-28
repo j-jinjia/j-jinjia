@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/LW5vBvAb48Oe9OoEKT/giphy.gif" width="100"/>
+</div>
+
 
 <h1 align="center">Hi there👋, I'm Jiazheng</h1>
 <h3 align="center">A passionate Junior Full Stack Software Developer from Spain</h3>
