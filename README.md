@@ -40,7 +40,7 @@ Through nology I was able to upskill and gain enough confidence to make my first
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-B20600?logo=jest&logoColor=white&style=for-the-badge)
-![Cypress](https://img.shields.io/badge/Cypress-grey?logo=jest&logoColor=white&style=for-the-badge)
+![Cypress](https://img.shields.io/badge/Cypress-grey?logo=cypress&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
