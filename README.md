@@ -11,7 +11,7 @@
 
 # 💫About Me :
 
-🔭 I’m currently working on a music player full-stack project
+🔭 I’m currently working on a music player full-stack project(https://github.com/j-jinjia/full-stack-project)
 
 🌱 I’m currently learning React, Java, and TypeScript
 
