@@ -25,7 +25,7 @@ Through nology I was able to upskill and gain enough confidence to make my first
 📫 How to reach me j.jinjia99@gmail.com
 
 
-## 🌐Socials
+# 🌐Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiazheng-jin-jia/)
 
