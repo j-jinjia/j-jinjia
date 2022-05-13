@@ -9,7 +9,7 @@
 
 
 
-# 💫About Me :
+# 💫About Me 
 
 I have recently completed a 12-week full stack software development course with [_nology.io](https://nology.io/). After completing my BSc in astrophysics I've realised 2 things: I don't see myself working as a researcher and I wasn't ready to break into the job market. Through my university computing modules I started getting interested in coding so I started looking for opportunities in the tech industry.
 
