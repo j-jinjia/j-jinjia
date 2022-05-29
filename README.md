@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi there👋, I'm Jiazheng (Jacksen)</h1>
-<h3 align="center">A passionate Junior Full Stack Software Developer from Spain</h3>
+<h3 align="center">A passionate Junior Full Stack Software Developer</h3>
 
 
 
