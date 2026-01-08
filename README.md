@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi there👋, I'm Jiazheng (Jacksen)</h1>
-<h3 align="center">A passionate Software Developer with over 3 years of experience</h3>
+<h3 align="center">A passionate Software Developer with over 2 years of experience</h3>
 
 
 # 🌐Socials
